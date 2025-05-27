@@ -1,0 +1,41 @@
+folder_name,object_name,type,defects_diseases,maturity_stage
+Apple defect,Apple red,fruit,yes,ripen
+Apple gold,Apple gold,fruit,no,ripen
+Apple gold defect,Apple gold,fruit,yes,ripen
+Apple gold overripe,Apple gold,fruit,no,overripe
+Apple green,Apple green,fruit,no,ripen
+Apple green defect,Apple green,fruit,yes,ripen
+Apple green unripe,Apple green,fruit,no,unripe
+Apple overripe,Apple red,fruit,no,overripe
+Apple overripe defect,Apple red,fruit,yes,overripe
+Apple red,Apple red,fruit,no,ripen
+Apple red Yellow,Apple red yellow,fruit,no,ripen
+Apple red Yellow overripe,Apple red yellow,fruit,no,overripe
+Apple unripe,Apple red,fruit,no,unripe
+Apple unripe defect,Apple red,fruit,yes,unripe
+banana,banana,fruit,no,ripen
+banana overripe,banana,fruit,no,overripe
+banana unripe,banana,fruit,no,unripe
+Cucumber,Cucumber,vegetable,no,ripen
+Cucumber defect,Cucumber,vegetable,yes,ripen
+Cucumber overripe,Cucumber,vegetable,no,overripe
+Cucumber unripe,Cucumber,vegetable,no,unripe
+Caju seed,Caju seed,nut,no,ripen
+Chestnut,Chestnut,nut,no,ripen
+Pistachio,Pistachio,nut,no,ripen
+Walnut,Walnut,nut,no,ripen
+Onion,Onion,vegetable,no,ripen
+Onion defect,Onion,vegetable,yes,ripen
+Pear,Pear,fruit,no,ripen
+Pear overripe defect,Pear,fruit,yes,overripe
+Pear unripe defect,Pear,fruit,yes,unripe
+Pepper Green,Pepper Green,vegetable,no,unripe
+Pepper Orange,Pepper Orange,vegetable,no,ripen
+Pepper Red,Pepper Red,vegetable,no,ripen
+Strawberry,Strawberry,fruit,no,ripen
+Strawberry defect,Strawberry,fruit,yes,ripen
+Strawberry unripe,Strawberry,fruit,no,unripe
+Tomato,Tomato,vegetable,no,ripen
+Tomato defect,Tomato,vegetable,yes,ripen
+Tomato overripe,Tomato,vegetable,no,overripe
+Tomato unripe,Tomato,vegetable,no,unripe
