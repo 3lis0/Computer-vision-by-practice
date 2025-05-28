@@ -89,9 +89,9 @@ Input (100x100x3) → Data Augmentation → MobileNetV2 Base → GlobalAveragePo
 | Task | F1 Score |
 |------|----------|
 | Defects/Diseases | **0.85+** |
-| Type | **0.90+** |
-| Maturity Stage | **0.85+** |
-| Object Name | **0.95+** |
+| Type | **0.98+** |
+| Maturity Stage | **0.91+** |
+| Object Name | **0.91+** |
 
 ### Model Comparison:
 | Model | Training Approach | Key Strengths | Observations |
