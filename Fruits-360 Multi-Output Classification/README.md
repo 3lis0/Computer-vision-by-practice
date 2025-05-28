@@ -73,7 +73,7 @@ Input (100x100x3) → Data Augmentation → MobileNetV2 Base → GlobalAveragePo
    - Initial training with frozen MobileNetV2 layers (15 epochs)
 
 3. **Phase 3: Progressive Unfreezing**
-   - Gradually unfroze 20%, 25%, and 30% of base model layers across 14 phases
+   - Gradually unfroze 20%, 25%, and 30% of base model layers across 13 phases
 
 ### Key Training Techniques:
 -  **Data Augmentation:** Random flip, rotation, zoom, translation
