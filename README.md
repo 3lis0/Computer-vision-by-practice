@@ -47,8 +47,6 @@
 | Task No. | Title | Description| Domain|
 |----------|-------|------------|-------|
 | 1        | Fruits-360 Multi-Output Classification | A comprehensive deep learning solution for agricultural product classification using transfer learning and multi-output neural networks.
-
- | Classification |
 | 2        | Image Processing in Python | This notebook contains practical implementations and exercises from the DataCamp course on image processing using scikit-image. | Image Processing |
 ---
 
